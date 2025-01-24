@@ -44,7 +44,7 @@ Selenium is an open-source suite of tools and libraries designed for automating 
 
 - **Cross-Browser Testing**: Selenium supports multiple browsers, including Chrome, Firefox, Safari, and Internet Explorer. This allows QA teams to verify that web applications function consistently across different browsers, providing a seamless user experience.
 
-- **Support for Multiple Programming Languages**: Selenium allows testers to write test scripts in various programming languages such as Java, C#, Python, Ruby, and PHP. This flexibility enables teams to utilize their preferred programming languages, enhancing productivity.
+- **Support for Multiple Programming Languages**: Selenium allows testers to write test scripts in various programming languages such as Java, C#, Python, Ruby,Go and PHP. This flexibility enables teams to utilize their preferred programming languages, enhancing productivity.
 
 - **Integration with Other Tools**: Selenium can be easily integrated with other testing frameworks and tools like TestNG, JUnit, and Maven. This integration enhances testing capabilities and facilitates continuous integration and delivery (CI/CD) practices.
 
